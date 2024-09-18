@@ -32,7 +32,7 @@ export class RouterService {
 
   public openPlayStoreInNewTab(): void {
     window.open(
-      'https://play.google.com/store/apps/details?id=dev.robingenz.capacitorjs.nfc.demo',
+      'https://play.google.com/store/apps/details?id=com.kse.nfcdemo',
       '_blank',
     );
   }

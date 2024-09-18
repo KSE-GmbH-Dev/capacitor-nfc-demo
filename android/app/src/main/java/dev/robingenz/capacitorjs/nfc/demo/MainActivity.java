@@ -1,4 +1,4 @@
-package dev.robingenz.capacitorjs.nfc.demo;
+package com.kse.nfcdemo;
 
 import com.getcapacitor.BridgeActivity;
 

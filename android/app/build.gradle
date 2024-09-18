@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "dev.robingenz.capacitorjs.nfc.demo"
+    namespace "com.kse.nfcdemo"
     compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "dev.robingenz.capacitorjs.nfc.demo"
+        applicationId "com.kse.nfcdemo"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
